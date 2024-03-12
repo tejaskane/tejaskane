@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tejas-girish-babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-girish-babu" height="30" width="40" /></a>
 <a href="https://instagram.com/ing.tejas_girish_babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ing.tejas_girish_babu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFkOEwydy-SJTWsLmvw7ojg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tejas12365" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tejas12365/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tejas12365" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
