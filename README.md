@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tejasbabu.babu22@gmail.com**
 
-- 📄 Know about my experiences: <a href='./Tejas_Resume.pdf' download='Tejas_Resume'> Click to download my Résumé </a>;
+- 📄 Know about my experiences: <a href='./Tejas_Resume.pdf' download="Tejas_Resume"> My Résumé </a>
 - 👨‍💻 My simple website: <a href='https://tejaskane.github.io/Portfolio/'>My Website</a>
 
 <h3 align="left">Connect with me:</h3>
