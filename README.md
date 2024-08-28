@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">A passionate Full Stack developer from Czech Republic.</h3>
+<h3 align="center">A passionate IT Professional from Czech Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaskane&label=Profile%20views&color=0e75b6&style=flat" alt="tejaskane" /> </p>
 
