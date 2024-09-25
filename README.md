@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React and PostgreSQL**
 
-- 💬 Ask me about **Web development, Python, JS, DevOps Tools**
+- 💬 Ask me about **Web development, Python, JS, DevOps Tools, Linux**
 
 - 📫 How to reach me **tejasbabu.babu22@gmail.com**
 
